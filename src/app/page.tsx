@@ -120,7 +120,11 @@ export default function Home() {
               </a>
             </div>
           </Reveal>
-          {/* <div className="hero-footnote"><span>SCROLL TO EXPLORE</span><i/><span>01 — 05</span></div> */}
+          <div className="hero-footnote">
+            <span>SCROLL TO EXPLORE</span>
+            <i />
+            <span>01 — 05</span>
+          </div>
         </div>
         <div className="hero-media">
           <Image
